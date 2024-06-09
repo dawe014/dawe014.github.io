@@ -1,6 +1,3 @@
-Sure! Here is a README file for your project with the updated social media links and all necessary information:
-
-```markdown
 # MeteorMate
 
 MeteorMate is a web application built with Flask that provides weather forecasts and current weather data using the OpenWeatherMap API. Users can register, log in, and manage their settings, including preferred units for temperature display.
